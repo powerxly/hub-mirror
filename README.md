@@ -1,3 +1,6 @@
+一次最多转换11个镜像！！！！！
+json格式如下
+
 {
 "hub-mirror": [
 "gcr.io/google-samples/microservices-demo/emailservice:v0.3.5",
